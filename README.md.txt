@@ -22,7 +22,7 @@ This project analyzes Spotify's Top 150 tracks using MySQL. It demonstrates data
 - Artist with the most total streams  
 - Rank each artist's tracks by stream count
 
-## Future Improvements  
+## Future Improvements 
 - Remove duplicate records  
 - Expand dataset beyond 150 tracks  
 - Integrate with Python or Power BI for data visualization
